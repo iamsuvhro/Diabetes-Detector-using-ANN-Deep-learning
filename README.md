@@ -11,4 +11,4 @@ ANNs are considered nonlinear statistical data modeling tools where the complex 
 
 ANN is also known as a neural network.
 
-![alt text](https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwiB-6ieiKngAhUbiHAKHdAqA9EQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FArtificial_neural_network&psig=AOvVaw0aRCoSUl3oYsKCY1mEPGt5&ust=1549609731378103)
+![ANN](https://github.com/suvhradipghosh07/Diabetes-Detector-using-ANN-Deep-learning/blob/master/1200px-Colored_neural_network.svg.png)
